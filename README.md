@@ -15,7 +15,7 @@ Hoje sigo aprimorando minhas habilidades, explorando novas soluções através d
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11968360291)
 
 ---
-##🏅**Meta**
+**🏅Meta**
 
 Me especializar no desenvolvimento **Back-End**, construindo sistemas eficientes, escaláveis e bem estruturadas.
 
