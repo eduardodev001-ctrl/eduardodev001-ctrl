@@ -16,11 +16,11 @@ Hoje sigo aprimorando minhas habilidades, explorando novas soluções através d
 
 ---
 **🏅Meta**
-
+===
 Me especializar no desenvolvimento **Back-End**, construindo sistemas eficientes, escaláveis e bem estruturadas.
 
 ---
-## ⚙️ Tecnologias
+## 💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
